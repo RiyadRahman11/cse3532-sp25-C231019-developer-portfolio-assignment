@@ -1,0 +1,17 @@
+.page1
+{
+    background-color:#FFF8F3;
+    color: navy;
+    display:flex;
+    justify-content:space-between;
+}
+.topline
+{
+    display:flex;
+}
+.topline ul 
+{
+    list-style-type:none;
+    color:red;
+    margin:0;padding:0;
+}
